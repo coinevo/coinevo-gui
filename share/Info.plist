@@ -18,7 +18,7 @@
   <string>????</string>
 
   <key>CFBundleExecutable</key>
-  <string>monero-wallet-gui</string>
+  <string>coinevo-wallet-gui</string>
   
   <key>CFBundleName</key>
   <string>Monero GUI</string>
@@ -27,7 +27,7 @@
   <string>Copyright © 2014-2020 The Monero Project</string>
 
   <key>CFBundleIdentifier</key>
-  <string>org.monero-project.monero-wallet-gui</string>
+  <string>org.coinevo.coinevo-wallet-gui</string>
 
   <key>CFBundleVersion</key>
   <string>@VERSION_LONG@</string>

@@ -64,8 +64,8 @@
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="100"/>
-        <source>This makes it easier to send or receive Monero and reduces errors when typing in addresses manually.</source>
-        <translation>Ovo olakšava slanje ili primanje Monero i redukuje greške kada se adrese ukucavanju ručno.</translation>
+        <source>This makes it easier to send or receive Coinevo and reduces errors when typing in addresses manually.</source>
+        <translation>Ovo olakšava slanje ili primanje Coinevo i redukuje greške kada se adrese ukucavanju ručno.</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="114"/>
@@ -490,13 +490,13 @@
     </message>
     <message>
         <location filename="../pages/Keys.qml" line="62"/>
-        <source>WARNING: Do not reuse your Monero keys on another fork, UNLESS this fork has key reuse mitigations built in. Doing so will harm your privacy.</source>
+        <source>WARNING: Do not reuse your Coinevo keys on another fork, UNLESS this fork has key reuse mitigations built in. Doing so will harm your privacy.</source>
         <translation>UPOZORENJE: Ne koristite vaše ključeve na drugom forku, OSIM ako taj fork ima ugradjene mitigacije za ponovno korišćenje kljuca. Ovakvo korišćenje će oštetiti vašu priivatnost.</translation>
     </message>
     <message>
         <location filename="../pages/Keys.qml" line="85"/>
-        <source>WARNING: Copying your seed to clipboard can expose you to malicious software, which may record your seed and steal your Monero. Please write down your seed manually.</source>
-        <translation>UPOZORENJE: Kopiranje vaseg sida u klipbord Vas moze izloziti virusima, koji mogu da snime vas sid i ukradu Vas Monero. Prepisite zato sid rucno.</translation>
+        <source>WARNING: Copying your seed to clipboard can expose you to malicious software, which may record your seed and steal your Coinevo. Please write down your seed manually.</source>
+        <translation>UPOZORENJE: Kopiranje vaseg sida u klipbord Vas moze izloziti virusima, koji mogu da snime vas sid i ukradu Vas Coinevo. Prepisite zato sid rucno.</translation>
     </message>
     <message>
         <location filename="../pages/Keys.qml" line="106"/>
@@ -914,12 +914,12 @@
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="71"/>
-        <source>Mining with your computer helps strengthen the Monero network. The more that people mine, the harder it is for the network to be attacked, and every little bit helps.
+        <source>Mining with your computer helps strengthen the Coinevo network. The more that people mine, the harder it is for the network to be attacked, and every little bit helps.
 
-Mining also gives you a small chance to earn some Monero. Your computer will create hashes looking for block solutions. If you find a block, you will get the associated reward. Good luck!</source>
+Mining also gives you a small chance to earn some Coinevo. Your computer will create hashes looking for block solutions. If you find a block, you will get the associated reward. Good luck!</source>
         <translation>Rudarenje sa tvojim računarom pomaže ojačavanju Montero mreže. Što više ljudi rudari, teže je mrežu napasti, i svaki mali bit pomaže.
 
-Rudarenje vam takođe omogućava malu šansu da zaradite neki Monero. Vaš računar će napraviti smešu tražeći blok rešenja. Ako nađete blok, dobićete propratnu nagradu. Srećno!</translation>
+Rudarenje vam takođe omogućava malu šansu da zaradite neki Coinevo. Vaš računar će napraviti smešu tražeći blok rešenja. Ako nađete blok, dobićete propratnu nagradu. Srećno!</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="83"/>
@@ -1279,7 +1279,7 @@ Rudarenje vam takođe omogućava malu šansu da zaradite neki Monero. Vaš raču
     </message>
     <message>
         <location filename="../pages/settings/SettingsInfo.qml" line="100"/>
-        <source>Embedded Monero version: </source>
+        <source>Embedded Coinevo version: </source>
         <translation>Ugrađena verzija Monera: </translation>
     </message>
     <message>
@@ -1488,13 +1488,13 @@ Stari fajl keša novčanika će biti preimenovan i može se povratiti kasnije.</
     </message>
     <message>
         <location filename="../pages/settings/SettingsNode.qml" line="230"/>
-        <source>Uses a third-party server to connect to the Monero network. Less secure, but easier on your computer.</source>
-        <translation>Koristi server trećeg lica za povezivanje na Monero mrežu. Manje bezbedno, ali lakše za vaš računar.</translation>
+        <source>Uses a third-party server to connect to the Coinevo network. Less secure, but easier on your computer.</source>
+        <translation>Koristi server trećeg lica za povezivanje na Coinevo mrežu. Manje bezbedno, ali lakše za vaš računar.</translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsNode.qml" line="274"/>
-        <source>To find a remote node, type &apos;Monero remote node&apos; into your favorite search engine. Please ensure the node is run by a trusted third-party.</source>
-        <translation>Da nađete udaljenu nodu, ukucajte &apos;Monero remote node&apos; u vaš omiljeni pretraživač. Molimo proverite da nodom upravlja lice od poverenja.</translation>
+        <source>To find a remote node, type &apos;Coinevo remote node&apos; into your favorite search engine. Please ensure the node is run by a trusted third-party.</source>
+        <translation>Da nađete udaljenu nodu, ukucajte &apos;Coinevo remote node&apos; u vaš omiljeni pretraživač. Molimo proverite da nodom upravlja lice od poverenja.</translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsNode.qml" line="282"/>
@@ -1711,8 +1711,8 @@ Možete promeniti lozinku u podešavanjima novčanika.</translation>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="104"/>
-        <source>This page allows you to interact with the shared ring database. This database is meant for use by Monero wallets as well as wallets from Monero clones which reuse the Monero keys.</source>
-        <translation>Ova stranica vam omogućava interakciju sa deljenom prsten bazom podataka. Ova baza podataka je namenjena za upotrebu od strane Monero novčanika kao i novčanika od Monero klonova koji koriste Monero ključeve.</translation>
+        <source>This page allows you to interact with the shared ring database. This database is meant for use by Coinevo wallets as well as wallets from Coinevo clones which reuse the Coinevo keys.</source>
+        <translation>Ova stranica vam omogućava interakciju sa deljenom prsten bazom podataka. Ova baza podataka je namenjena za upotrebu od strane Coinevo novčanika kao i novčanika od Coinevo klonova koji koriste Coinevo ključeve.</translation>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="117"/>
@@ -1728,8 +1728,8 @@ Možete promeniti lozinku u podešavanjima novčanika.</translation>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="120"/>
-        <source>In order to obscure which inputs in a Monero transaction are being spent, a third party should not be able to tell which inputs in a ring are already known to be spent. Being able to do so would weaken the protection afforded by ring signatures. If all but one of the inputs are known to be already spent, then the input being actually spent becomes apparent, thereby nullifying the effect of ring signatures, one of the three main layers of privacy protection Monero uses.&lt;br&gt;To help transactions avoid those inputs, a list of known spent ones can be used to avoid using them in new transactions. Such a list is maintained by the Monero project and is available on the getmonero.org website, and you can import this list here.&lt;br&gt;Alternatively, you can scan the blockchain (and the blockchain of key-reusing Monero clones) yourself using the monero-blockchain-mark-spent-outputs tool to create a list of known spent outputs.&lt;br&gt;</source>
-        <translation>Da bi bilo nejasnije koji ulazi u Monero transakciji se troše, treća strana ne treba da bude u mogućnosti da zaključi koji ulazi u prstenu su već poznati kao potrošeni. To bi oslabilo zaštitu priuštenu prsten potpisima. Ako za sve osim jednog ulaza je poznato da su potrošeni, onda ulaz koji biva potrošen postaje očigledan, time poništavajući dejstvo prsten potpisa, koji čine jedan od tri glavna sloja privatnosti koje Monero koristi.&lt;br&gt;Da bi pomogli da se izbegnu takvi ulazi, lista poznatih potrošenih ulaza se može koristiti kako se ne bi koristili u novim transakcijama. Takva lista se održava od strane Monero projekta i dostupna na getmonero.org veb sajtu, i možete je uneti tu listu ovde.&lt;br&gt;Alternatnivno, možete skenirati blokčejn (i blokčejn Menoro klonova koji koriste iste ključeve) samostalno korišćenjem monero-blockchain-mark-spent-outputs alatke da napravite listu izlaza za koje je poznato da su potrošeni.&lt;br&gt;</translation>
+        <source>In order to obscure which inputs in a Coinevo transaction are being spent, a third party should not be able to tell which inputs in a ring are already known to be spent. Being able to do so would weaken the protection afforded by ring signatures. If all but one of the inputs are known to be already spent, then the input being actually spent becomes apparent, thereby nullifying the effect of ring signatures, one of the three main layers of privacy protection Coinevo uses.&lt;br&gt;To help transactions avoid those inputs, a list of known spent ones can be used to avoid using them in new transactions. Such a list is maintained by the Coinevo project and is available on the coinevo.tech website, and you can import this list here.&lt;br&gt;Alternatively, you can scan the blockchain (and the blockchain of key-reusing Coinevo clones) yourself using the coinevo-blockchain-mark-spent-outputs tool to create a list of known spent outputs.&lt;br&gt;</source>
+        <translation>Da bi bilo nejasnije koji ulazi u Coinevo transakciji se troše, treća strana ne treba da bude u mogućnosti da zaključi koji ulazi u prstenu su već poznati kao potrošeni. To bi oslabilo zaštitu priuštenu prsten potpisima. Ako za sve osim jednog ulaza je poznato da su potrošeni, onda ulaz koji biva potrošen postaje očigledan, time poništavajući dejstvo prsten potpisa, koji čine jedan od tri glavna sloja privatnosti koje Coinevo koristi.&lt;br&gt;Da bi pomogli da se izbegnu takvi ulazi, lista poznatih potrošenih ulaza se može koristiti kako se ne bi koristili u novim transakcijama. Takva lista se održava od strane Coinevo projekta i dostupna na coinevo.tech veb sajtu, i možete je uneti tu listu ovde.&lt;br&gt;Alternatnivno, možete skenirati blokčejn (i blokčejn Menoro klonova koji koriste iste ključeve) samostalno korišćenjem coinevo-blockchain-mark-spent-outputs alatke da napravite listu izlaza za koje je poznato da su potrošeni.&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="141"/>
@@ -1799,12 +1799,12 @@ Možete promeniti lozinku u podešavanjima novčanika.</translation>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="257"/>
-        <source>In order to avoid nullifying the protection afforded by Monero&apos;s ring signatures, an output should not be spent with different rings on different blockchains. While this is normally not a concern, it can become one when a key-reusing Monero clone allows you to spend existing outputs. In this case, you need to ensure this existing outputs uses the same ring on both chains.&lt;br&gt;This will be done automatically by Monero and any key-reusing software which is not trying to actively strip you of your privacy.&lt;br&gt;If you are using a key-reusing Monero clone too, and this clone does not include this protection, you can still ensure your transactions are protected by spending on the clone first, then manually adding the ring on this page, which allows you to then spend your Monero safely.&lt;br&gt;If you do not use a key-reusing Monero clone without these safety features, then you do not need to do anything as it is all automated.&lt;br&gt;</source>
-        <translation>Da bi se izbeglo poništavanje zaštite koju pružaju Monerovi prsten potpisi, izlaz ne bi trebalo trošiti sa različitim prstenovima na različitim blokčejnima. Dok ovo obično nije problem, može postati problem kada Monero klon koji ponovo koristi ključeve vam dozvoljava da potrošite postojeće izlaze. U ovom slučaju, potrebno je da obezbedite da ovi postojeći izlazi koriste isti prsten na oba blokčejna.&lt;br&gt;Ovo će automatski biti urađeno od Monera i drugog softvera koji ponovo koristi ključeve koji ne pokušava da vam namerno oduzme vašu privatnost.&lt;br&gt;Ako takođe koristite Monero klon koji ponovo koristi ključeve, i ovaj klon ne sadrži ovu zaštitu, idalje možete da obezbedite da su vaše transakcije zaštićene trošenjem prvo na klonu, a onda ručno dodavanjem prstena na ovoj stranici koja vam omogućava da potom bezbedno potrošite vaš Monero.&lt;br&gt;Ako ne koristite Monero klon koji ponovo koristi ključeve bez ovih bezbednosnih odlika, onda ne morate ništa da radite pošto će sve biti automatizovano.&lt;br&gt;</translation>
+        <source>In order to avoid nullifying the protection afforded by Coinevo&apos;s ring signatures, an output should not be spent with different rings on different blockchains. While this is normally not a concern, it can become one when a key-reusing Coinevo clone allows you to spend existing outputs. In this case, you need to ensure this existing outputs uses the same ring on both chains.&lt;br&gt;This will be done automatically by Coinevo and any key-reusing software which is not trying to actively strip you of your privacy.&lt;br&gt;If you are using a key-reusing Coinevo clone too, and this clone does not include this protection, you can still ensure your transactions are protected by spending on the clone first, then manually adding the ring on this page, which allows you to then spend your Coinevo safely.&lt;br&gt;If you do not use a key-reusing Coinevo clone without these safety features, then you do not need to do anything as it is all automated.&lt;br&gt;</source>
+        <translation>Da bi se izbeglo poništavanje zaštite koju pružaju Coinevovi prsten potpisi, izlaz ne bi trebalo trošiti sa različitim prstenovima na različitim blokčejnima. Dok ovo obično nije problem, može postati problem kada Coinevo klon koji ponovo koristi ključeve vam dozvoljava da potrošite postojeće izlaze. U ovom slučaju, potrebno je da obezbedite da ovi postojeći izlazi koriste isti prsten na oba blokčejna.&lt;br&gt;Ovo će automatski biti urađeno od Monera i drugog softvera koji ponovo koristi ključeve koji ne pokušava da vam namerno oduzme vašu privatnost.&lt;br&gt;Ako takođe koristite Coinevo klon koji ponovo koristi ključeve, i ovaj klon ne sadrži ovu zaštitu, idalje možete da obezbedite da su vaše transakcije zaštićene trošenjem prvo na klonu, a onda ručno dodavanjem prstena na ovoj stranici koja vam omogućava da potom bezbedno potrošite vaš Coinevo.&lt;br&gt;Ako ne koristite Coinevo klon koji ponovo koristi ključeve bez ovih bezbednosnih odlika, onda ne morate ništa da radite pošto će sve biti automatizovano.&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="279"/>
-        <source>This records rings used by outputs spent on Monero on a key reusing chain, so that the same ring may be reused to avoid privacy issues.</source>
+        <source>This records rings used by outputs spent on Coinevo on a key reusing chain, so that the same ring may be reused to avoid privacy issues.</source>
         <translation>Ovo zapisuje prestenove korišćene od strane izlaza potrošenih na Moneru na lancu koji ponovo koristi ključeve, da bi se isti prsten mogao koristi kako bi se izbegli problemi privatnosti.</translation>
     </message>
     <message>
@@ -1989,8 +1989,8 @@ Možete promeniti lozinku u podešavanjima novčanika.</translation>
     </message>
     <message>
         <location filename="../pages/Sign.qml" line="342"/>
-        <source>Enter the Monero Address (example: 44AFFq5kSiGBoZ...)</source>
-        <translation>Unesi Monero Adresu (na primer 44AFFq5kSiGBoZ...)</translation>
+        <source>Enter the Coinevo Address (example: 44AFFq5kSiGBoZ...)</source>
+        <translation>Unesi Coinevo Adresu (na primer 44AFFq5kSiGBoZ...)</translation>
     </message>
     <message>
         <location filename="../pages/Sign.qml" line="352"/>
@@ -2125,7 +2125,7 @@ Možete promeniti lozinku u podešavanjima novčanika.</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="161"/>
-        <source>Spendable funds: %1 XMR. Please wait ~%2 minutes for your whole balance to become spendable.</source>
+        <source>Spendable funds: %1 EVO. Please wait ~%2 minutes for your whole balance to become spendable.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2348,8 +2348,8 @@ Ringsize: </translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="640"/>
-        <source>Monero sent successfully</source>
-        <translation>Monero uspešno poslat</translation>
+        <source>Coinevo sent successfully</source>
+        <translation>Coinevo uspešno poslat</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="704"/>
@@ -2737,8 +2737,8 @@ your input may be required.</source>
     </message>
     <message>
         <location filename="../wizard/WizardCreateWallet3.qml" line="60"/>
-        <source>To be able to communicate with the Monero network your wallet needs to be connected to a Monero node. For best privacy it&apos;s recommended to run your own node.</source>
-        <translation>Da biste komunicirali sa Monero mrežom Vaš novčanik mora biti povezan sa Monero čvorom. Za najbolju privatnost, preporučuje se da pokrenete svoj sopstveni čvor.</translation>
+        <source>To be able to communicate with the Coinevo network your wallet needs to be connected to a Coinevo node. For best privacy it&apos;s recommended to run your own node.</source>
+        <translation>Da biste komunicirali sa Coinevo mrežom Vaš novčanik mora biti povezan sa Coinevo čvorom. Za najbolju privatnost, preporučuje se da pokrenete svoj sopstveni čvor.</translation>
     </message>
 </context>
 <context>
@@ -2788,8 +2788,8 @@ your input may be required.</source>
     </message>
     <message>
         <location filename="../wizard/WizardDaemonSettings.qml" line="115"/>
-        <source>Additionally, you may specify a bootstrap node to use Monero immediately.</source>
-        <translation>Takodje, mozete zadati i pomocni nod da biste koristili Monero domah.</translation>
+        <source>Additionally, you may specify a bootstrap node to use Coinevo immediately.</source>
+        <translation>Takodje, mozete zadati i pomocni nod da biste koristili Coinevo domah.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardDaemonSettings.qml" line="163"/>
@@ -2801,7 +2801,7 @@ your input may be required.</source>
     <name>WizardHome</name>
     <message>
         <location filename="../wizard/WizardHome.qml" line="61"/>
-        <source>Welcome to Monero</source>
+        <source>Welcome to Coinevo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2811,8 +2811,8 @@ your input may be required.</source>
     </message>
     <message>
         <location filename="../wizard/WizardHome.qml" line="67"/>
-        <source>Choose this option if this is your first time using Monero.</source>
-        <translation>Izaberite ovu opciju ako koristite Monero po prvi put.</translation>
+        <source>Choose this option if this is your first time using Coinevo.</source>
+        <translation>Izaberite ovu opciju ako koristite Coinevo po prvi put.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardHome.qml" line="87"/>
@@ -2821,8 +2821,8 @@ your input may be required.</source>
     </message>
     <message>
         <location filename="../wizard/WizardHome.qml" line="88"/>
-        <source>Connect your hardware wallet to create a new Monero wallet.</source>
-        <translation>Poverzite vas hardverski novcanik da biste kreirali novi Monero novcanik.</translation>
+        <source>Connect your hardware wallet to create a new Coinevo wallet.</source>
+        <translation>Poverzite vas hardverski novcanik da biste kreirali novi Coinevo novcanik.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardHome.qml" line="107"/>
@@ -2879,8 +2879,8 @@ your input may be required.</source>
     </message>
     <message>
         <location filename="../wizard/WizardLang.qml" line="94"/>
-        <source>Change the language of the Monero GUI.</source>
-        <translation>Promenite jezik Monero interfejsa (GUI).</translation>
+        <source>Change the language of the Coinevo GUI.</source>
+        <translation>Promenite jezik Coinevo interfejsa (GUI).</translation>
     </message>
     <message>
         <location filename="../wizard/WizardLang.qml" line="183"/>
@@ -2920,7 +2920,7 @@ your input may be required.</source>
     </message>
     <message>
         <location filename="../wizard/WizardModeBootstrap.qml" line="84"/>
-        <source>Temporary use of remote nodes is useful in order to use Monero immediately (hence the name bootstrap), however be aware that when using remote nodes (including with the bootstrap setting), nodes could track your IP address, track your &quot;restore height&quot; and associated block request data, and send you inaccurate information to learn more about transactions you make.</source>
+        <source>Temporary use of remote nodes is useful in order to use Coinevo immediately (hence the name bootstrap), however be aware that when using remote nodes (including with the bootstrap setting), nodes could track your IP address, track your &quot;restore height&quot; and associated block request data, and send you inaccurate information to learn more about transactions you make.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2943,8 +2943,8 @@ your input may be required.</source>
     </message>
     <message>
         <location filename="../wizard/WizardModeRemoteNodeWarning.qml" line="72"/>
-        <source>This mode is ideal for managing small amounts of Monero. You have access to basic features for making and managing transactions. It will automatically connect to the Monero network so you can start using Monero immediately.</source>
-        <translation>Ovaj rezim je odlican za koriscenje malog iznosa Monera. Imate pristup osnovnim funkcijama za kreiranje i pracenje transakcija. Automatski ce se povezati na Monero mrezu tako da mozete odmah da pocnete da koristite Monero.</translation>
+        <source>This mode is ideal for managing small amounts of Coinevo. You have access to basic features for making and managing transactions. It will automatically connect to the Coinevo network so you can start using Coinevo immediately.</source>
+        <translation>Ovaj rezim je odlican za koriscenje malog iznosa Monera. Imate pristup osnovnim funkcijama za kreiranje i pracenje transakcija. Automatski ce se povezati na Coinevo mrezu tako da mozete odmah da pocnete da koristite Coinevo.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardModeRemoteNodeWarning.qml" line="85"/>
@@ -3134,10 +3134,10 @@ your input may be required.</source>
     </message>
     <message>
         <location filename="../wizard/WizardRestoreWallet3.qml" line="68"/>
-        <source>To be able to communicate with the Monero network your wallet needs to be connected to a Monero node. For best privacy it&apos;s recommended to run your own node.
+        <source>To be able to communicate with the Coinevo network your wallet needs to be connected to a Coinevo node. For best privacy it&apos;s recommended to run your own node.
 
 If you don&apos;t have the option to run your own node, there&apos;s an option to connect to a remote node.</source>
-        <translation>Da biste mogli da komunicirate sa Monero mrezom Vas novcanik mora da bude povezan sa Monero nodom. Za najbolju privatnost preporuceno je da kreirate svoj nod.
+        <translation>Da biste mogli da komunicirate sa Coinevo mrezom Vas novcanik mora da bude povezan sa Coinevo nodom. Za najbolju privatnost preporuceno je da kreirate svoj nod.
 
 Ako nemate mogicnosti da kreirate svoj nod, moguce je i konektovati se na udaljeni nod (ali to za sada nije preporucljivo).</translation>
     </message>
@@ -3409,8 +3409,8 @@ your input may be required.</source>
     </message>
     <message>
         <location filename="../main.qml" line="964"/>
-        <source>Monero sent successfully: %1 transaction(s) </source>
-        <translation>Monero uspešno poslat: %1 transakcija </translation>
+        <source>Coinevo sent successfully: %1 transaction(s) </source>
+        <translation>Coinevo uspešno poslat: %1 transakcija </translation>
     </message>
     <message>
         <location filename="../main.qml" line="1004"/>
@@ -3438,7 +3438,7 @@ your input may be required.</source>
     </message>
     <message>
         <location filename="../main.qml" line="1047"/>
-        <source>This address received %1 monero, with %2 confirmation(s).</source>
+        <source>This address received %1 coinevo, with %2 confirmation(s).</source>
         <translation>Ova adresa je primila %1 Monera, sa %2 potvrda.</translation>
     </message>
     <message>
@@ -3519,7 +3519,7 @@ your input may be required.</source>
     </message>
     <message>
         <location filename="../main.qml" line="1983"/>
-        <source>New version of Monero v%1 is available.</source>
+        <source>New version of Coinevo v%1 is available.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3534,7 +3534,7 @@ your input may be required.</source>
     </message>
     <message>
         <location filename="../main.qml" line="1987"/>
-        <source>Check out getmonero.org</source>
+        <source>Check out coinevo.tech</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3570,7 +3570,7 @@ your input may be required.</source>
     </message>
     <message>
         <location filename="../main.qml" line="1044"/>
-        <source>This address received %1 monero, but the transaction is not yet mined</source>
+        <source>This address received %1 coinevo, but the transaction is not yet mined</source>
         <translation>Ova adresa je primila %1 monera, ali transakcija još uvek nije potvrđena</translation>
     </message>
     <message>
