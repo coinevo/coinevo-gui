@@ -1,0 +1,3 @@
+[submodule "coinevo-core"]
+	path = coinevo-core
+	url = https://github.com/coinevo/coinevo-core
